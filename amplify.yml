@@ -1,0 +1,14 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands: []
+    build:
+      commands: []
+  artifacts:
+    baseDirectory: 09/src
+    files:
+      - '**/*'
+  cache:
+    paths: []
+
