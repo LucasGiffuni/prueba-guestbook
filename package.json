@@ -1,0 +1,8 @@
+{
+  "name": "guestbook2-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf dist && mkdir -p dist && cp -R 09/src/* dist/"
+  }
+}

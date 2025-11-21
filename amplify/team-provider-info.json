@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-guestbook2-dev-144df-authRole",
+      "UnauthRoleArn": "arn:aws:iam::405898739110:role/amplify-guestbook2-dev-144df-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::405898739110:role/amplify-guestbook2-dev-144df-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-guestbook2-dev-144df-deployment",
+      "UnauthRoleName": "amplify-guestbook2-dev-144df-unauthRole",
+      "StackName": "amplify-guestbook2-dev-144df",
+      "StackId": "arn:aws:cloudformation:us-west-1:405898739110:stack/amplify-guestbook2-dev-144df/e941b850-c596-11f0-a78b-060c7a929cf9",
+      "AmplifyAppId": "de1hdxbx12bc1"
+    },
+    "categories": {
+      "auth": {
+        "guestbook23549f6c7": {}
+      },
+      "api": {
+        "guestbook2": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "de1hdxbx12bc1",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
