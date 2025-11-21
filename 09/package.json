@@ -1,9 +1,0 @@
-{
-  "name": "guestbook2",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "rm -rf dist && mkdir -p dist && cp -R src/* dist",
-    "start": "open src/index.html || true"
-  }
-}
